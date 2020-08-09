@@ -31,7 +31,7 @@
 <!-- [website]: https://codeSTACKr.com -->
 
 [twitter]: https://twitter.com/codewithsidy
-[youtube]: https://youtube.com/codeSTACKr
+[youtube]: https://youtube.com/codewithsidy
 [instagram]: https://www.instagram.com/codewithsidy
 [linkedin]: https://linkedin.com/in/apex1000
 [webdevplaylist]: #
