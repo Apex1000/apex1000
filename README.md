@@ -1,8 +1,8 @@
-### Hi there, I'm siddhart - aka [apex1000][website] 👋
+### Hi there, I'm siddhart - aka [siddythings](https://siddythings.github.io) 👋
 
 ## I'm a Freelancer, Developer, and Teacher!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on a VS Code Course!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects and Create few.
@@ -28,8 +28,7 @@
 
 ---
 
-<!-- [website]: https://codeSTACKr.com -->
-
+[website]: https://siddythings.github.io
 [twitter]: https://twitter.com/codewithsidy
 [youtube]: https://youtube.com/codewithsidy
 [instagram]: https://www.instagram.com/codewithsidy
