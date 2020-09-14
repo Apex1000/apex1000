@@ -1,4 +1,6 @@
-![banner](./img/banner.jpg )
+![banner](banner.jpg | height=300)
+
+<hr>
 
 ### Hi there, I'm siddhart - aka [siddythings](https://siddythings.github.io) 👋
 
