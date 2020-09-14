@@ -1,3 +1,5 @@
+![banner](./img/banner.jpg )
+
 ### Hi there, I'm siddhart - aka [siddythings](https://siddythings.github.io) 👋
 
 ## I'm a Freelancer, Developer, and Teacher!
@@ -8,7 +10,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects and Create few.
 - ⚡ Fun fact: I love to play badminton.
 
-### Connect with me:
+### Hire me:
 
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 
